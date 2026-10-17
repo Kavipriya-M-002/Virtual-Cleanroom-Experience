@@ -2,7 +2,7 @@
 
 ## Overview
 
-As part of the **Semiconductor Fabrication 101** course offered by **Purdue University**, I explored virtual semiconductor fabrication equipment and cleanroom workflows using **VFabLab**. This experience provided an introduction to the equipment, process sequences, and wafer-handling procedures involved in semiconductor manufacturing through a vitual cleanroom environment.
+As part of the **Semiconductor Fabrication 101** course offered by **Purdue University**, I explored virtual semiconductor fabrication equipment and cleanroom workflows using **VFabLab**. This experience provided an introduction to the equipment, process sequences, and wafer-handling procedures involved in semiconductor manufacturing through a virtual cleanroom environment.
 
 ## Processes Explored
 
